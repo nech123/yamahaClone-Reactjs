@@ -5,7 +5,6 @@
 
 
 
-https://user-images.githubusercontent.com/45881098/181605357-7b425eb1-02d7-466b-85f0-2fa2127743df.mp4
 ------------------------------
 
 # Testado em resolução de 1980x1080
